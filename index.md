@@ -2,9 +2,38 @@
 layout: default
 ---
 
+# About Nuvlio 
+
+Nuvlio is the company behind of a group of services of **risk intelligence** for agricultural 
+commodities financial services like credit, insurance, reinsurance, trade finance, environmental services and other
+related services. 
+
+The Nuvlio team combines over decades of experience on commodities financial markets with academic skills and 
+research in the segments of data science and engineering at global scale using time and spatial information, 
+aiming the solving of the major challenges of the commodities financial markets in the combination with the 
+most advanced web3 systems, such as the [Internet Computer](https://internetcomputer.org/).
+
+# Nuvlio Oracle Services
+
+The **Nuvlio Oracle Services** are the combination of big data acquisition, cutting edge data science,
+machine learning modelling and decentralized computation, storage and access at global scale. 
+
+To achieve such goal the Nuvlio Team have been working with the [Internet Computer](https://internetcomputer.org/) 
+infrastructure as the next age in webservices that can power the entire commodities financial markets.
+
+From the fusion of Nuvlio expertises and the Internet Computer extreme capabilities is born the Nuvlio Oracles 
+Services for Agriculture Commodities Financial Services.
+
+# How it works?
+
+Users for 
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](https://internetcomputer.org/).
 
 There should be whitespace between paragraphs.
 
