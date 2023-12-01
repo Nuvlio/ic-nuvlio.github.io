@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Nuvlio Oracle Services
+
 # About Nuvlio 
 
 Nuvlio is the company behind of a group of services of **risk intelligence** for agricultural 
@@ -11,15 +13,14 @@ related services.
 The Nuvlio team combines over decades of experience on commodities financial markets with academic skills and 
 research in the segments of data science and engineering at global scale using time and spatial information, 
 aiming the solving of the major challenges of the commodities financial markets in the combination with the 
-most advanced web3 systems, such as the <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>
-.
+most advanced web3 systems, such as the <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>.
 
-# Nuvlio Oracle Services
+# The Nuvlio Oracle Services
 
 The **Nuvlio Oracle Services** are the combination of big data acquisition, cutting edge data science,
 machine learning modelling and decentralized computation, storage and access at global scale. 
 
-To achieve such goal the Nuvlio Team have been working with the [Internet Computer](https://internetcomputer.org/) 
+To achieve such goal the Nuvlio Team have been working with the <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a> 
 infrastructure as the next age in webservices that can power the entire commodities financial markets.
 
 From the fusion of Nuvlio expertises and the Internet Computer extreme capabilities is born the Nuvlio Oracles 
@@ -27,7 +28,35 @@ Services for Agriculture Commodities Financial Services.
 
 # How it works?
 
-Users for 
+The Nuvlio Oracles Services offer a simple and easy to use directly on the API level or using the Nuvlio Infrastructure 
+web interface. 
+
+For users that are operating directly in the APIs are able to build your own web application connecting directly on the
+<a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>
+infrastructure that will send/receive the calls from/to the Nuvlio Internet Computer Oracles Services that will provide 
+the services for credit (lending services in commodities markets today). The Nuvlio Oracles Services in the 
+Internet Computer today (as the December 2023) covers since the **January 2000 in any place on Earth**:
+
+* **Pre-Underwriting Analysis** - For every credit contract a submission that is realized in the screening phase, 
+and aim to provide to user the capacity of judge all aspects that can affect the credit contract with the aspects of:
+
+1. Environmental Aspects - the history of the field under analysis of land use, land cover change, deforestation, 
+fires presence, flood risks, conflict with forests and other environmental metrics;
+
+* **A** 
+
+
+
+
+
+
+
+# Let's Start Now?
+
+So if your organization/startup/project is working in the commodities financial services for one of the segments
+(credit, insurance, reinsurance, trade finance, environmental services) you can be part of the users of the Nuvlio 
+Oracles Services by contacting <a href="https://www.nuvlio.com/contact-us" target="_blank" rel="noopener noreferrer">Nuvlio Contact</a> 
+and our Team will help you to start working with the Nuvlio Oracles Services.
 
 
 
