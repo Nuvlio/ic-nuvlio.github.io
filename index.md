@@ -11,7 +11,8 @@ related services.
 The Nuvlio team combines over decades of experience on commodities financial markets with academic skills and 
 research in the segments of data science and engineering at global scale using time and spatial information, 
 aiming the solving of the major challenges of the commodities financial markets in the combination with the 
-most advanced web3 systems, such as the [Internet Computer](https://internetcomputer.org/).
+most advanced web3 systems, such as the <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>
+.
 
 # Nuvlio Oracle Services
 
