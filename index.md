@@ -2,17 +2,6 @@
 layout: default
 ---
 
-# About Nuvlio 
-
-Nuvlio is the company behind of a group of services of **risk intelligence** for agricultural 
-commodities financial services like credit, insurance, reinsurance, trade finance, environmental services and other
-related services. 
-
-The Nuvlio team combines over decades of experience on commodities financial markets with academic skills and 
-research in the segments of data science and engineering at global scale using time and spatial information, 
-aiming the solving of the major challenges of the commodities financial markets in the combination with the 
-most advanced web3 systems, such as the <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>.
-
 # The Nuvlio Oracle Services
 
 The **Nuvlio Oracle Services** are the combination of big data acquisition, cutting edge data science,
@@ -104,3 +93,14 @@ So if your organization/startup/project is working in the commodities financial 
 Oracles Services by contacting <a href="https://www.nuvlio.com/contact-us" target="_blank" rel="noopener noreferrer">Nuvlio Contact</a> 
 and our Team will help you to start working with the Nuvlio Oracles Services.
 
+
+# About Nuvlio
+
+Nuvlio is the company behind of a group of services of **risk intelligence** for agricultural
+commodities financial services like credit, insurance, reinsurance, trade finance, environmental services and other
+related services.
+
+The Nuvlio team combines over decades of experience on commodities financial markets with academic skills and
+research in the segments of data science and engineering at global scale using time and spatial information,
+aiming the solving of the major challenges of the commodities financial markets in the combination with the
+most advanced web3 systems, such as the <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>.
