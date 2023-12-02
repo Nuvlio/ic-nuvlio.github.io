@@ -75,7 +75,7 @@ a segment.
 
 ![]({{"assets/images/ic_oracle_property_dashboard.png" | relative_url }} )
 {:.image-caption}
-*Nuvlio IC Interface For Users To Process Their Submissions, Results, Scores and Reports.*
+*Nuvlio IC Interface To Access The Results, Scores And Reports For One Particular Field In Analysis.*
 
 **During the Cycle of Contract Analysis** - For each contract analyzed and approved in the **Pre-Underwriting Analysis** 
 continue to be monitored and analyzed during the cycle of the contract (in commodities typically between 6 and 18 months) 
