@@ -38,6 +38,8 @@ acquisition can be visualized in the screenshot of Nuvlio IC Interface.
 
 ![Nuvlio IC Interface]({{"assets/images/ic_oracle_credits_acquisition.png" | relative_url }} )
 
+{:.image-caption}
+*The caption for my image*
 
 **Pre-Underwriting Analysis** - For every credit contract a submission that is realized in the screening phase, 
 and aim to provide to user the capacity of judge all aspects that can affect the credit contract with the aspects of:
