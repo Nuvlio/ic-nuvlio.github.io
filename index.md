@@ -23,14 +23,26 @@ The services provided by Nuvlio Oracles Services on Internet Computer
 The Nuvlio Oracles Services offer a simple and easy to use directly on the API level or using the Nuvlio Infrastructure 
 web interface. 
 
+![]({{"assets/images/ic_oracle_user_dashboard.png" | relative_url }} )
+
 For users that are operating directly in the APIs are able to build your own web application connecting directly on the
 <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>
 infrastructure that will send/receive the calls from/to the Nuvlio Internet Computer Oracles Services that will provide 
 the services for credit (lending services in commodities markets today). The Nuvlio Oracles Services in the 
 Internet Computer today (as the December 2023) covers since the **January 2000 in any place on Earth**:
 
+The users start by acquiring Nuvlio Credits that will feed the processing of all data, scores generation and 
+reports generation during the cycle of the contract analyzed or during the monitoring of the contract that is 
+approved and will be monitored during the duration of the financial deal. An example of the Nuvlio credits 
+acquisition can be visualized in the screenshot of Nuvlio IC Interface.
+
+![Nuvlio IC Interface]({{"assets/images/ic_oracle_credits_acquisition.png" | relative_url }} )
+
+
 **Pre-Underwriting Analysis** - For every credit contract a submission that is realized in the screening phase, 
 and aim to provide to user the capacity of judge all aspects that can affect the credit contract with the aspects of:
+
+![]({{"assets/images/ic_oracle_property_submission.png" | relative_url }} )
 
 1. **_Environmental Aspects_** - the history of the field under analysis of land use, land cover change, deforestation, 
 fires presence, flood risks, conflict with forests and other environmental metrics. This metrics enable for your 
@@ -41,8 +53,6 @@ production capacity and performance like what type of crop was cultivated in eac
 the field have been cultivated during each year, what have been the production performance in each season and other 
 30+ specific metrics related to the production condition of the field. The production history not only implies the 
 losses risks, but impacts the revenue capacity generation too.
-
-![]({{"assets/images/ic_oracle_user_dashboard.png" | relative_url }} )
 
 3. **_Financial/Risk Aspects_** - the financial and risks metrics and analysis cover all critical decision points that 
 will drive approval-rejection and rating-pricing of each contract. For example, the Nuvlio Oracles Services provide for 
@@ -55,6 +65,9 @@ Agronomic/Productive Aspects, Financial/Risk Aspects) is aggregated as one set o
 enables users to share information with all necessary peers for a contract in commodities lending. In each report is 
 separated by its segment and cover all the metrics, visualizations and scores that drive the decision of that particular 
 a segment.
+
+![]({{"assets/images/ic_oracle_property_dashboard.png" | relative_url }} )
+
 
 **During the Cycle of Contract Analysis** - For each contract analyzed and approved in the **Pre-Underwriting Analysis** 
 continue to be monitored and analyzed during the cycle of the contract (in commodities typically between 6 and 18 months) 
