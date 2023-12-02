@@ -48,6 +48,8 @@ acquisition can be visualized in the screenshot of Nuvlio IC Interface.
 and aim to provide to user the capacity of judge all aspects that can affect the credit contract with the aspects of:
 
 ![]({{"assets/images/ic_oracle_property_submission.png" | relative_url }} )
+{:.image-caption}
+*Nuvlio IC Interface For Users To Process Their Submissions, Results, Scores and Reports.*
 
 1. **_Environmental Aspects_** - the history of the field under analysis of land use, land cover change, deforestation, 
 fires presence, flood risks, conflict with forests and other environmental metrics. This metrics enable for your 
