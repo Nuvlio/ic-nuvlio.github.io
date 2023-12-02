@@ -25,6 +25,9 @@ web interface.
 
 ![]({{"assets/images/ic_oracle_user_dashboard.png" | relative_url }} )
 
+{:.image-caption}
+*Nuvlio IC Interface For Users To Process Their Submissions, Results, Scores and Reports.*
+
 For users that are operating directly in the APIs are able to build your own web application connecting directly on the
 <a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">Internet Computer</a>
 infrastructure that will send/receive the calls from/to the Nuvlio Internet Computer Oracles Services that will provide 
@@ -36,10 +39,10 @@ reports generation during the cycle of the contract analyzed or during the monit
 approved and will be monitored during the duration of the financial deal. An example of the Nuvlio credits 
 acquisition can be visualized in the screenshot of Nuvlio IC Interface.
 
-![Nuvlio IC Interface]({{"assets/images/ic_oracle_credits_acquisition.png" | relative_url }} )
+![]({{"assets/images/ic_oracle_credits_acquisition.png" | relative_url }} )
 
 {:.image-caption}
-*The caption for my image*
+*Nuvlio IC Interface Credit Acquisition To Enable The User Processing.*
 
 **Pre-Underwriting Analysis** - For every credit contract a submission that is realized in the screening phase, 
 and aim to provide to user the capacity of judge all aspects that can affect the credit contract with the aspects of:
@@ -69,7 +72,8 @@ separated by its segment and cover all the metrics, visualizations and scores th
 a segment.
 
 ![]({{"assets/images/ic_oracle_property_dashboard.png" | relative_url }} )
-
+{:.image-caption}
+*Nuvlio IC Interface For Users To Process Their Submissions, Results, Scores and Reports.*
 
 **During the Cycle of Contract Analysis** - For each contract analyzed and approved in the **Pre-Underwriting Analysis** 
 continue to be monitored and analyzed during the cycle of the contract (in commodities typically between 6 and 18 months) 
