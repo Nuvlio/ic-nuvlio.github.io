@@ -43,6 +43,8 @@ the field have been cultivated during each year, what have been the production p
 losses risks, but impacts the revenue capacity generation too.
 
 
+![Nuvlio](https://github.com/Nuvlio/ic-oracles/blob/main/assets/images/ic_oracle_user_dashboard.png)
+
 3. **_Financial/Risk Aspects_** - the financial and risks metrics and analysis cover all critical decision points that 
 will drive approval-rejection and rating-pricing of each contract. For example, the Nuvlio Oracles Services provide for 
 financial/risk segment over 40+ different metrics, like a) weather risks, b) production score, c) default risk score, 
