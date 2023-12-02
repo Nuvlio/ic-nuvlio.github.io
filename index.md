@@ -115,7 +115,6 @@ So if your organization/startup/project is working in the commodities financial 
 Oracles Services by contacting <a href="https://www.nuvlio.com/contact-us" target="_blank" rel="noopener noreferrer">Nuvlio Contact</a> 
 and our Team will help you to start working with the Nuvlio Oracles Services.
 
-
 # About Nuvlio
 
 Nuvlio is the company behind of a group of services of **risk intelligence** for agricultural
