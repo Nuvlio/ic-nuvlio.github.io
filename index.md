@@ -42,8 +42,7 @@ the field have been cultivated during each year, what have been the production p
 30+ specific metrics related to the production condition of the field. The production history not only implies the 
 losses risks, but impacts the revenue capacity generation too.
 
-
-![Nuvlio](https://github.com/Nuvlio/ic-oracles/blob/main/assets/images/ic_oracle_user_dashboard.png)
+![]({{"assets/images/ic_oracle_user_dashboard.png" | relative_url }} )
 
 3. **_Financial/Risk Aspects_** - the financial and risks metrics and analysis cover all critical decision points that 
 will drive approval-rejection and rating-pricing of each contract. For example, the Nuvlio Oracles Services provide for 
