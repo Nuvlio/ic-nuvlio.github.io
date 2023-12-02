@@ -15,8 +15,26 @@ Services for Agriculture Commodities Financial Services.
 
 # How it works?
 
-The services provided by Nuvlio Oracles Services on Internet Computer 
+The services provided by Nuvlio Oracles Services on Internet Computer are the base layer for the implementation of DEFI 
+and Fintech applications in the agricultural commodities market. Users can screen loans solicitations on any place on
+Earth with data of 500+ variables (from satellite data, weather forecast, soil information among others) since **January 2000** 
+up to today with a range of over 70+ scores in a complete reporting system. 
 
+The Nuvlio Oracle Services enables a full automation cycle of all back office processing in financial deals in 
+agricultural commodities credit, as simple as:
+
+````
+
+Registry your Organization on Nuvlio Oracles Services -->> 
+    Submit 1 loan for analysis -->> 
+        Get the full analysis in 15 minutes -->> 
+            Decide if YES or NO for the contract -->> 
+                Price the contract risk using the credit scoring -->>
+                    Release the loan -->> 
+                        Monitor the entire cycle of the contract -->> 
+                            Make successful decisions and better services!
+
+````
 
 # What are inside of Nuvlio Oracles Services?
 
